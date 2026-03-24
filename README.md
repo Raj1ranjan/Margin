@@ -161,12 +161,16 @@ This project is open source. See LICENSE file for details.
 **"No module named 'PyQt6'"**
 - Install dependencies: `pip install -r requirements.txt`
 - Ensure you're using the correct Python version
+<img width="1920" height="1049" alt="Screenshot From 2026-03-24 12-51-02" src="https://github.com/user-attachments/assets/5b59b07d-0d32-435a-aa9a-2a24b2e3cb3c" />
+<img width="1920" height="1049" alt="Screenshot From 2026-03-24 12-50-28" src="https://github.com/user-attachments/assets/534a4137-c033-49dc-b05e-8948f8574d19" />
+<img width="1920" height="1049" alt="Screenshot From 2026-03-24 12-48-55" src="https://github.com/user-attachments/assets/d9ae7dd7-0f5d-4bae-97bc-3c371a1bbb83" />
 
 **UI doesn't start**
 - Check that you're in a graphical environment
 - Try running with `python main.py` from the project directory
 
-**Operations fail silently**
+**Operations fail silently**<img width="1920" height="1049" alt="Screenshot From 2026-03-24 12-50-08" src="https://github.com/user-attachments/assets/810982a2-4205-4c95-bd44-8296b4ef54a9" />
+
 - Check the `logs/` directory for error details
 - Ensure PDF files are not corrupted or password-protected
 
